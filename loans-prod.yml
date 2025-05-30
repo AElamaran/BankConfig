@@ -1,0 +1,13 @@
+
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank cards related prod APIs "
+  contactDetails:
+    name: "Elamaran - Product Owner"
+    email: "elamaran@eazybank.com"
+  onCallSupport:
+    - (+94) 77 901 8085
+    - (+94) 77 904 5865

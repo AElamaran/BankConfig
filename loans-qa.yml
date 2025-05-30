@@ -1,0 +1,13 @@
+
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to EazyBank cards related QA APIs "
+  contactDetails:
+    name: "Jerri - QA Lead"
+    email: "jerri@eazybank.com"
+  onCallSupport:
+    - (+94) 77 901 9845
+    - (+94) 77 901 9035
